@@ -460,7 +460,7 @@ The Executive Overview presents:
 - Inventory risk distribution
 - Recommended actions
 
-Power_bi/Executive%20Overview.png
+![wer_bi/Executive%20Overview.png
 
 ---
 
@@ -475,7 +475,7 @@ The Forecast Performance page evaluates:
 - Products contributing the most forecast error
 - Stores contributing the most forecast error
 
-Power_bi/Forecast_Performance_Analysis.png
+![wer_bi/Forecast_Performance_Analysis.png
 
 ---
 
@@ -491,7 +491,7 @@ The Inventory Risk Monitor supports operational prioritization through:
 - Recommended inventory actions
 - Priority product-store cases
 
-Power_bi/Inventory%20Risk%20Monitor.png
+![Inventoryventory%20Risk%20Monitor.png
 
 ---
 
@@ -510,7 +510,7 @@ The Product and Store Deep Dive provides detailed analysis by:
 - Recommended action
 
 
-Power_bi/Product%20and%20Store%20Performance.png
+![Product and Store Performance](Power_bi/Product%20and%20Store
 
 ---
 
