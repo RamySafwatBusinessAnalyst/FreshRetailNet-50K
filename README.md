@@ -460,7 +460,7 @@ The Executive Overview presents:
 - Inventory risk distribution
 - Recommended actions
 
-![Executive Overview](Power_bi/Executiveecutive%20Overview.png)
+![Executive Overview](Power_bi/Executiveecutive Overview.png)
 
 ---
 
