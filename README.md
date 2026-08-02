@@ -491,8 +491,8 @@ The Inventory Risk Monitor supports operational prioritization through:
 - Recommended inventory actions
 - Priority product-store cases
 
-![Inventoryventory%20Risk%20Monitor.png
 
+![Inventory_Risk_Monitor](Power_bi/Inventory%20Risk%20Monitor.png)
 ---
 
 ## 4. Product and Store Deep Dive
@@ -510,7 +510,7 @@ The Product and Store Deep Dive provides detailed analysis by:
 - Recommended action
 
 
-![Product and Store Performance](Power_bi/Product%20and%20Store
+![Product_and_Store_Performance](Power_bi/Product%20and%20Store%20Performance.png)
 
 ---
 
