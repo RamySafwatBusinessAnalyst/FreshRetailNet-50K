@@ -475,7 +475,7 @@ The Forecast Performance page evaluates:
 - Products contributing the most forecast error
 - Stores contributing the most forecast error
 
-![wer_bi/Forecast_Performance_Analysis.png
+![Forecast_PErformance_Analysis](Power_bi/Forecast_PErformance_Analysis.png)
 
 ---
 
